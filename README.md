@@ -5,7 +5,7 @@ This project was undertaken to strengthen my skills in HTML, CSS, and JavaScript
 ## Project Structure
 - **index.html:** Contains the html structure.
 - **styles.css:** Style file to enhance the visual presentation.
-- **scripts.js** Contains all logic.
+- **scripts.js:** Contains all logic.
 
 ## How to use:
 1. Clone the repository: `git clone https://github.com/MiguelCapitao/QR-Code-Generator.git`
