@@ -17,3 +17,5 @@ This project was undertaken to strengthen my skills in HTML, CSS, and JavaScript
 (Upon converting to GIF, the image quality significantly degraded. Apologies for that)
 ![Web Photo](qrcodegenerator.gif)
 <BR>
+![Web Photo](screen.png)
+![Web Photo](screen1.png)
